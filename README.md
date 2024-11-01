@@ -12,7 +12,7 @@ I'm an enthusiastic programmer, IT technician, and junior mobile developer. I lo
 ![Profile Views](https://komarev.com/ghpvc/?username=louismichaell&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Technologies & Tools
-- Programming Languages: Python, JavaScript, Java,
+- Programming Languages: Python, JavaScript, Java
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js
 - Mobile Development: Kotlin
