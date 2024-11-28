@@ -14,7 +14,7 @@ I'm an enthusiastic programmer, IT technician, and junior mobile developer. I lo
 ## Technologies & Tools
 - Programming Languages: Python, JavaScript, Java
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js
+- Backend: Node.js, NestJS
 - Mobile Development: Kotlin
 - Database: MySQL
 - Other: Git
